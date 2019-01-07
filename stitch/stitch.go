@@ -1,3 +1,6 @@
+// Package stitch is a simple wrapper around the standard libraries gif.GIF type
+// that enables easy combination of multiple source files into a single merged
+// animation. The source files can also be looped multiple times if required.
 package stitch
 
 import (
